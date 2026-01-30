@@ -29,7 +29,7 @@ Nexa is a voice-first intelligent assistant built to support learning, productiv
 
 ---
 
-## 💎 Premium Plan ($5–$6 / month)
+## 💎 Premium Plan ($8.99 / month)
 
 Premium users get access to advanced features, including:
 - ⚡ Faster and more detailed answers
